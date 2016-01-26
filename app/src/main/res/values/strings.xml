@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyUdacityApps</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="title">My Udacity Apps</string>
+
+    <string name="spotifyapp">SPOTIFY STREAMER</string>
+    <string name="scoresapp">SCORES APP</string>
+    <string name="libraryapp">LIBRARY APP</string>
+    <string name="buildapp">BUILD IT BIGGER</string>
+    <string name="xyzreaderapp">XYZ READER</string>
+    <string name="capstoneapp">CAPSTONE:MY OWN APP</string>
+
+</resources>
